@@ -2,3 +2,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
+
+url: "https://theodoret.github.io"
+baseurl: "" # Leave empty if your site is at the root
+repository: "theodoret/theodoret.github.io"
